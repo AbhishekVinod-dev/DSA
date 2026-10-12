@@ -1,0 +1,29 @@
+{
+  "name": "SmartTraffic Analytics | Smart Traffic Violation Prevention & Management System",
+  "short_name": "SmartTraffic",
+  "description": "Explainable traffic violation analytics: driver risk scoring, repeated-pattern detection, hotspot and time analysis, trend tracking and evidence-backed review alerts. Academic project prototype — decision support only.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF5DD",
+  "theme_color": "#0E4225",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/icon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
